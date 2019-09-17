@@ -9,8 +9,8 @@
   RecSys 2019 ImpactRS Wrokshop
   
 *The Need for a ComprehensiveStrategy to Evaluate Search EnginePerformance in the Classroom*
-  + Oghenemaro Anuyah, Michael Green, Ashlee Milton, Maria Soledad Pera
-  + IDC 2019 KidRec Workshop
+  Oghenemaro Anuyah, Michael Green, Ashlee Milton, Maria Soledad Pera
+  IDC 2019 KidRec Workshop
 
 
 ### Contact
